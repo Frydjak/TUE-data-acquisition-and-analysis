@@ -1,0 +1,15 @@
+name: 5ARB0
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - scipy
+  - jupyterlab
+  - tqdm
+  - scikit-learn
+  - pandas
+  - seaborn
+  - conda-forge::scikit-fuzzy
+  
